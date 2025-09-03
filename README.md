@@ -39,7 +39,7 @@ A delightful Chrome extension that gives daily AI-powered compliments to lift yo
 ## 📊 GitHub Stats
 (Stats are from my main GitHub account) 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu-agarwal0101&show_icons=true&theme=radical&count_private=true&cache_seconds=1" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanu-agarwal0101&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-agarwal0101&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
