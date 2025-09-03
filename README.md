@@ -24,7 +24,7 @@ A women’s safety web app with **SOS alerts, silent fake apps, real-time notifi
 
 ---
 
-### [Recruitment Platform](https://github.com/RamitVishwakarma/RecruitmentPlatformV2)
+### [Recruitment Platform](https://recruitments.gdscjss.in/)
 A recruitment platform for GDG College Society with user & admin panels, file uploads, and notifications.  
 **Stack:** Next.js, Node.js, Express.js, Prisma, PostgreSQL, AWS, Zustand, ShadCN
 
@@ -39,7 +39,7 @@ A delightful Chrome extension that gives daily AI-powered compliments to lift yo
 ## 📊 GitHub Stats
 (Stats are from my main GitHub account) 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanu-agarwal0101&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanu-agarwal0101&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu-agarwal0101&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
@@ -48,7 +48,7 @@ A delightful Chrome extension that gives daily AI-powered compliments to lift yo
 ## 📫 Let's Connect!
 - LinkedIn: [linkedin.com/in/tanu-agarwal0101](https://www.linkedin.com/in/tanu-agarwal0101)  
 - Portfolio: [tanuagarwal-dev](https://tanuagarwal-portfolio.vercel.app/) 
-- Email: **tanu.ag976v@gmail.com**
+- Email: **tanu.ag976@gmail.com**
 
 ---
 ⭐️ From [tanuagarwal-dev](https://github.com/tanuagarwal-dev)
